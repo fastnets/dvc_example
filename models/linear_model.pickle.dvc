@@ -1,0 +1,5 @@
+outs:
+- md5: 8d024385fbeff9a798527c7636df9d41
+  size: 741
+  hash: md5
+  path: linear_model.pickle
